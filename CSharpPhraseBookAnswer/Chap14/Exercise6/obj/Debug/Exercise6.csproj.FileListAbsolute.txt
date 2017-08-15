@@ -1,0 +1,5 @@
+G:\自宅研究室\実践で役立つ定石パターン\CSharpPhraseBookAnswer\Chap14\Exercise6\bin\Debug\Exercise3.exe.config
+G:\自宅研究室\実践で役立つ定石パターン\CSharpPhraseBookAnswer\Chap14\Exercise6\bin\Debug\Exercise3.exe
+G:\自宅研究室\実践で役立つ定石パターン\CSharpPhraseBookAnswer\Chap14\Exercise6\bin\Debug\Exercise3.pdb
+G:\自宅研究室\実践で役立つ定石パターン\CSharpPhraseBookAnswer\Chap14\Exercise6\obj\Debug\Exercise3.exe
+G:\自宅研究室\実践で役立つ定石パターン\CSharpPhraseBookAnswer\Chap14\Exercise6\obj\Debug\Exercise3.pdb

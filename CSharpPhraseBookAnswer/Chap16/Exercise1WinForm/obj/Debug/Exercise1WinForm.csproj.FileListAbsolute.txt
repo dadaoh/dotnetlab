@@ -1,0 +1,9 @@
+G:\自宅研究室\実践で役立つ定石パターン\CSharpPhraseBookAnswer\Chap16\Exercise1WinForm\bin\Debug\oop.md
+G:\自宅研究室\実践で役立つ定石パターン\CSharpPhraseBookAnswer\Chap16\Exercise1WinForm\bin\Debug\Exercise1WinForm.exe.config
+G:\自宅研究室\実践で役立つ定石パターン\CSharpPhraseBookAnswer\Chap16\Exercise1WinForm\bin\Debug\Exercise1WinForm.exe
+G:\自宅研究室\実践で役立つ定石パターン\CSharpPhraseBookAnswer\Chap16\Exercise1WinForm\bin\Debug\Exercise1WinForm.pdb
+G:\自宅研究室\実践で役立つ定石パターン\CSharpPhraseBookAnswer\Chap16\Exercise1WinForm\obj\Debug\Exercise1WinForm.Form1.resources
+G:\自宅研究室\実践で役立つ定石パターン\CSharpPhraseBookAnswer\Chap16\Exercise1WinForm\obj\Debug\Exercise1WinForm.Properties.Resources.resources
+G:\自宅研究室\実践で役立つ定石パターン\CSharpPhraseBookAnswer\Chap16\Exercise1WinForm\obj\Debug\Exercise1WinForm.csproj.GenerateResource.Cache
+G:\自宅研究室\実践で役立つ定石パターン\CSharpPhraseBookAnswer\Chap16\Exercise1WinForm\obj\Debug\Exercise1WinForm.exe
+G:\自宅研究室\実践で役立つ定石パターン\CSharpPhraseBookAnswer\Chap16\Exercise1WinForm\obj\Debug\Exercise1WinForm.pdb
